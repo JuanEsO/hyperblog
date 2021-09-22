@@ -1,1 +1,3 @@
 este es un archivo de texto plano, este es un cambio en este archivo
+
+cambios al archivo historia, agregamos esta linea de texto
